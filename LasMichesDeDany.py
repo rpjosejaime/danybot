@@ -5,9 +5,7 @@
 # @descripción Programa de ejemplo sobre libreria de telebot
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
-import sys
-reload(sys)
-sys.setdefaultencoding("ISO-8859-1")
+
 
 bot = ChatBot(
 	"Ejemplo Bot",
