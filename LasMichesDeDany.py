@@ -8,19 +8,19 @@ from chatterbot.trainers import ListTrainer
 bot = ChatBot(
 	"Ejemplo Bot",
 	trainer = "chatterbot.trainers.ChatterBotCorpusTrainer",
-	storage_adapter='chatterbot.storage.MongoDatabaseAdapter',
+	storage_adapter='chatterbot.storage.SQLStorageAdapter',
 	database='LasMichesDeDany-database'
 	)
 	
-#bot.train(
-#	"chatterbot.corpus.spanish.greetings"
-#	)
+bot.train(
+	"chatterbot.corpus.spanish.greetings"
+	)
 
-#conv = open('caso_1.txt', 'r').readlines()
+conv = open('caso_1.txt', 'r').readlines()
 
-#bot.set_trainer(ListTrainer)
+bot.set_trainer(ListTrainer)
 
-#bot.train(conv)
+bot.train(conv)
 print('Type something to begin...')
 
 
