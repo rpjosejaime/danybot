@@ -1,0 +1,78 @@
+Hola
+Hola, bienvenido que le gustaria saber
+
+Hola
+Buen dia, ¿En que le puedo ayudar?
+
+Buenas tardes
+Buenas tardes, ¿En que le puedo ayudar?
+
+¿Que venden?
+Vendemos micheladas, alitas, hamburguesas, papas a la francesa, refresco, tenemos para toda la familia
+
+¿Que tienen?
+Vendemos micheladas, alitas, hamburguesas, papas a la francesa, refresco, tenemos para toda la familia
+
+¿Que es lo que venden?
+Vendemos micheladas, alitas, hamburguesas, papas a la francesa, refresco, tenemos para toda la familia
+
+¿De tomar que tienes?
+Micheladas, refrescos, jugos
+
+¿Bebidas sin alcohol que tienen?
+Tenemos jugos, refrescos, sangria preparadas, limonada
+
+¿Para niños que tienen?
+Tenemos jugos, refrescos, sangria preparadas, limonada
+
+¿Que cervezas tienes?
+Corona, victoria, tecate, indio, sol, carta blanca, dos equis.
+
+¿De cuales cervezas?
+Corona, victoria, tecate, indio, sol, carta blanca, dos equis.
+
+¿Que refrescos hay?
+Coca-cola, mundet, sangria, squirt.
+
+¿Que refresco tienes?
+Coca-cola, mundet, sangria, squirt.
+
+¿Tienen micheladas?
+Si, tenemos de natural, clamato, mango, cheladas, tamarindo, fresa, uva, piña.
+
+¿De que son las micheladas?
+Si, tenemos de natural, clamato, mango, cheladas, tamarindo, fresa, uva, piña.
+
+¿Tienen alguna promoción?
+Tenemos 3x2 en micheladas con Indio, Tecate, Carta Blanca y Sol.
+
+¿Tienen alitas?
+Si, tenemos rancheras, picositas, BBQ
+
+¿De que son las alitas?
+Si, tenemos rancheras, picositas, BBQ
+
+¿Que combos de comida hay?
+Alitas más papas o Hamburguesas más papas.
+
+¿Que paquetes de comida hay?
+Alitas más papas o Hamburguesas más papas.
+
+¿Tacos de que tiene?
+Tenemos de Bistec, Pastor, Suadero, Campechanos, todos con queso o sin queso.
+
+¿Los tacos de que son?
+Tenemos de Bistec, Pastor, Suadero, Campechanos, todos con queso o sin queso.
+
+¿De que son las hamburguesas?
+Sirloin, arrachera, sencilla de res
+
+¿De que hay hamburguesas?
+Sirloin, arrachera, sencilla de res
+
+¿Que carne tienen?
+Sirloin, arrachera, sencilla de res
+
+
+
+
