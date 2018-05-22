@@ -22,7 +22,7 @@ Micheladas, refrescos, jugos
 ¿Bebidas sin alcohol que tienen?
 Tenemos jugos, refrescos, sangria preparadas, limonada
 
-¿Para niños que tienen?
+¿Para ninos que tienen?
 Tenemos jugos, refrescos, sangria preparadas, limonada
 
 ¿Que cervezas tienes?
@@ -38,10 +38,10 @@ Coca-cola, mundet, sangria, squirt.
 Coca-cola, mundet, sangria, squirt.
 
 ¿Tienen micheladas?
-Si, tenemos de natural, clamato, mango, cheladas, tamarindo, fresa, uva, piña.
+Si, tenemos de natural, clamato, mango, cheladas, tamarindo, fresa, uva, pina.
 
 ¿De que son las micheladas?
-Si, tenemos de natural, clamato, mango, cheladas, tamarindo, fresa, uva, piña.
+Si, tenemos de natural, clamato, mango, cheladas, tamarindo, fresa, uva, pina.
 
 ¿Tienen alguna promoción?
 Tenemos 3x2 en micheladas con Indio, Tecate, Carta Blanca y Sol.
