@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: ISO-8859-1 -*-
 # @autor(es) Jose Jaime Rodriguez
 # @nombre_archivo botelegram
 # @fecha 23/04/2018
