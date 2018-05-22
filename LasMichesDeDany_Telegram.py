@@ -15,7 +15,7 @@ bot = telebot.TeleBot ("517451236:AAFtk1rbzPE_yVPYK8Utbv0uReLEHLSlQmY")
 def bot_conversacional(message):
 	chatbot = ChatBot("Ejemplo Bot", 
 	trainer = "chatterbot.trainers.ChatterBotCorpusTrainer",
-	storage_adapter='chatterbot.storage.MongoDatabaseAdapter',
+	storage_adapter='chatterbot.storage.SQLStorageAdapter',
 	database='LasMichesDeDany-database')
 	respuesta = chatbot.get_response(message)
 	if float (respuesta.confidence)>0.8:
