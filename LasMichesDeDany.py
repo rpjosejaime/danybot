@@ -19,13 +19,13 @@ bot = ChatBot(
 
 bot.set_trainer(ListTrainer)
 
-conv=open('caso_1.txt', 'r').readlines()
+conv=open('caso_1.txt', 'r',encoding='utf-8').readlines()
 bot.train(conv)
 
-preguntas=open('preguntas.txt', 'r').readlines()
+preguntas=open('preguntas.txt', 'r',encoding='utf-8').readlines()
 bot.train(preguntas)
 
-despedidas=open('despedidas.txt', 'r').readlines()
+despedidas=open('despedidas.txt', 'r',encoding='utf-8').readlines()
 bot.train(despedidas)
 
 bot.set_trainer(ListTrainer)
