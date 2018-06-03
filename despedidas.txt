@@ -1,0 +1,24 @@
+/start
+Bienvenido a Las Miches de Dany, ¿en que le podemos ayudar?
+
+Adios
+Adios, hasta luego
+
+Adios
+Que tenga un buen día
+
+Adios
+Adios, vuelva pronto
+
+Hasta luego
+Nos vemos, buen dia
+
+Nos vemos,
+Gusto atenderle, adios
+
+Hasta luego
+Adios
+
+Nos vemos
+Gusto atenderle
+

@@ -1,0 +1,179 @@
+¿Cuales son los sabores de las micheladas?
+Mango, fresa, uva, tamarindo, natural, clamato.
+
+¿De que micheladas tienes?
+Tengo de mango, fresa, uva, tamarindo, natural, clamato.
+
+¿Que hay de comer?
+Ofrecemos alitas, papas a la francesa, hamburguesas, tacos.
+
+¿Cual es el precio de las micheladas?
+Su precio es de $70
+
+¿Cuanto cuestan las micheladas?
+Su precio es de $70
+
+¿Cuanto cuestan las alitas?
+Cuestan $50 la orden
+
+¿Cual es el precio de las alitas?
+Cuestan $50 la orden
+
+¿Que más venden?
+Botanas y bebidas, pregunta por alguna especifica.
+
+¿Que hay de tomar?
+Micheladas, refrescos y jugos.
+
+¿Que venden de tomar?
+Micheladas, refrescos y jugos.
+
+¿Quiero tomar algo?
+Tenemos micheladas, refrescos y jugos.
+
+¿Que horario tienen?
+Lunes a Sabado 2:00 pm a 10:00pm
+
+¿A que hora abren?
+Lunes a Sabado 2:00 pm a 10:00pm
+
+¿Cual es el horario?
+Lunes a Sabado 2:00 pm a 10:00pm
+
+¿Las alitas de que son?
+Picositas, BBQ, Rancheras
+
+¿De que sabor son las alitas?
+Picositas, BBQ, Rancheras
+
+¿Cuanto cuestan los tacos?
+A 10 pesos c/u
+
+¿Que bebidas hay?
+Micheladas, refrescos, jugos
+
+¿Que bebidas tienes?
+Micheladas, refrescos, jugos
+
+¿Que bebidas tiene?
+Micheladas, refrescos, jugos
+
+Bebidas
+Micheladas, refrescos, jugos
+
+Comida
+Alitas, hamburguesas, tacos
+
+¿Que hay de beber?
+Micheladas, refrescos, jugos
+
+Hamburguesas
+Si, sencilla, arrachera
+
+¿Que hay de beber?
+Micheladas, refrescos, jugos
+
+Michelada
+Si, tenemos de fresa, tamarindo, mango, natural, clamato
+
+Refrescos
+Si, coca cola, sidral, sangria
+
+Refresco
+Si, coca cola, sidral, sangria
+
+¿Tienen refresco?
+Si, coca cola, sidral, sangria
+
+coca cola
+si tenemos de vidrio y 600 ml
+
+mundet
+si tenemos de vidrio y 600 ml
+
+sangria
+si tenemos de vidrio y 600 ml
+
+Mango
+Ok, de que cerveza
+
+Fresa
+Ok, de que cerveza
+
+tamarindo
+Ok, de que cerveza
+
+natural
+Ok, de que cerveza
+
+clamato
+Ok, de que cerveza
+
+Corona
+Ok pasaremos su orden.
+
+Carta Blanca
+Ok pasaremos su orden.
+
+Indio
+Ok pasaremos su orden.
+
+Sol
+Ok pasaremos su orden.
+
+Dos Equis
+Ok pasaremos su orden.
+
+¿Tienen cerveza?
+Si, corona , carta blanca, sol, dos equis
+
+¿Cuanto cuesta la hamburguesa?
+30 sencilla y 50 arrachera
+
+¿Que dias abren?
+Toda la semana, domingos solo de 12pm a 6pm
+
+¿Que me recomiendan consumir?
+Unas alitas y un michelada
+
+¿Que me recomiendan comprar
+Una hamburguesa y un michelada
+
+¿Cuanto cuestan las papas a la francesa?
+A 30 la orden
+
+¿Quiero una michelada?
+Claro, puedes elegir entre mango, fresa, tamarindo, natural, clamato
+
+¿Que mas hay?
+Vendemos alitas, hamburguesas y micheladas.
+
+¿No hay descuentos para clientes frecuentes?
+Aun no contamos con eso, estamos trabajando en eso
+
+¿Hay musica en vivo?
+No contamos con eso.
+
+¿Es ambiente familiar?
+Si es para toda la familia
+
+¿Como te llamas?
+Dany bot, mucho gusto.
+
+¿Que haces?
+Platicando contigo, ¿Que te gustaria saber del negocio?
+
+¿Tienen tacos?
+Si tenemos de bistec, pastor, campechanos
+
+¿De que son los tacos?
+Tenemos de bistec, pastor, campechanos
+
+¿Quiero tacos?
+Tenemos de bistec, pastor, campechanos
+
+¿Como son los tacos?
+Tenemos de bistec, pastor, campechanos
+
+¿Que recomiendas?
+Comprar algo de comer xD

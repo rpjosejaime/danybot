@@ -7,7 +7,7 @@
 import telebot
 from chatterbot import ChatBot
 
-bot = telebot.TeleBot ("517451236:AAFtk1rbzPE_yVPYK8Utbv0uReLEHLSlQmY")
+bot = telebot.TeleBot ("517451236:AAFtk1rbzPE_yVPYK8Utbv0uReLEHLSlQmY")    #token de telegram
 
 # @autor Jose Jaime Rodriguez
 # @param message mensaje que se recibe del usuario
@@ -15,14 +15,14 @@ bot = telebot.TeleBot ("517451236:AAFtk1rbzPE_yVPYK8Utbv0uReLEHLSlQmY")
 def bot_conversacional(message):
 	chatbot = ChatBot("Ejemplo Bot", 
 	trainer = "chatterbot.trainers.ChatterBotCorpusTrainer",
-	storage_adapter='chatterbot.storage.SQLStorageAdapter',
+	storage_adapter='chatterbot.storage.MongoDatabaseAdapter',
 	database='LasMichesDeDany-database')
 	respuesta = chatbot.get_response(message)
 	if float (respuesta.confidence)>0.8:
 		respuesta =(str(respuesta))
 	else:
-			respuesta = "No entendi, prueba otra vez"
-	mensaje = open("respuesta.txt","w")
+		respuesta = "No entendi muy bien, prueba siendo más especifico"
+	mensaje = open("respuesta.txt","w")    #Abrir y escribir un txt
 	mensaje.write(respuesta)
 	mensaje.close()
 	
