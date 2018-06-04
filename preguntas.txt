@@ -177,3 +177,54 @@ Tenemos de bistec, pastor, campechanos
 
 ¿Que recomiendas?
 Comprar algo de comer xD
+
+¿Qué me recomiendas?
+Comprar algo de comer, todo es muy bueno
+
+¿Cuál es su especialidad?
+Las micheladas. Que mejor que sean acompañadas de alguna botana.
+
+¿Las bebidas ya incluyen alguna botana?
+No, debes pedir la que desees
+
+¿Cuál es el menú?
+Tenemos variedad de bebidas como micheladas, refrescos, botanas como alitas, papas, comida como tacos, hamburguesas. Pregunta por lo que deseas
+
+¿Hay promoción para cumpleañeros?
+No, no tenemos ninguna promoción. Pero estamos trabajando en eso
+
+¿Pasarán los partidos del mundial?
+Claro, estaremos pasando los partidos en lo que disfrutas de tu bebida y tu comida
+
+¿Se puede fumar en el restaurante?
+Si, contamos con zonas para las personas que deseen fumar
+
+¿Puedo fumar en el restaurante?
+Si, contamos con zonas para las personas que deseen fumar
+
+¿Hay zona libre de humo?
+Por supuesto, puedes disfrutar del ambiente libre de humo
+
+¿Hay servicio a domicilio?
+Actualmente no contamos con servicio a domicilio. Estamos trabajando en ello
+
+¿Tienen servicio a domicilio?
+Actualmente no contamos con servicio a domicilio. Estamos trabajando en ello
+
+¿Necesito hacer reservación?
+No es necesario
+
+¿Se necesita reservación?
+No es necesario
+
+¿Cuentan con wifi?
+Actualmente no contamos con wifi. Estamos trabajando en eso
+
+¿Tienen internet?
+Actualmente no. Estamos trabajando en eso
+
+¿Cuántas alitas trae la orden?
+6 alitas
+
+¿Qué incluye la orden de alitas?
+Las alitas y su aderezo
